@@ -1,0 +1,9 @@
+footer{
+	background-color: gray
+	padding-top: 5rem;
+	padding-bottom: 5rem;
+}
+
+footer p {
+	margin-bottom: .25rem;
+}
